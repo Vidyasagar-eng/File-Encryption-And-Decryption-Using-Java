@@ -60,6 +60,8 @@ File decrypted and saved as: decrypted.txt
 - **Save your encryption key** after encryption; otherwise, you won't be able to decrypt the file.
 - Ensure that the file paths are correct when providing input.
 - The program uses **AES (Advanced Encryption Standard) with a 256-bit key**.
+- test1.txt is the encrypted file
+- test1_res.txt is the decrypted file
 
 ## License
 This project is open-source and available for free use.
